@@ -62,5 +62,5 @@ Fuller, C. M., Simmering, M. J., Atinc, G., Atinc, Y., & Babin, B. J. (2016). Co
 
 # Appendix
 
-- **GitHub repository:** Pending publication.
-- **GitHub Pages report:** Pending publication.
+- **GitHub repository:** <https://github.com/falasol/M12>
+- **GitHub Pages report:** <https://falasol.github.io/M12/M12.html>
