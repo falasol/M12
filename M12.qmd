@@ -1,0 +1,66 @@
+---
+title: "Common Method Bias: Article Summary"
+author: "Frank Renn"
+date: 2026-11-19
+format:
+  html:
+    embed-resources: true
+---
+
+# Article Overview
+
+Podsakoff, MacKenzie, and Podsakoff (2012) review how measurement methods can influence research findings. They explain where method bias comes from, how it can affect measures and relationships, and what researchers can do to reduce it.
+
+# What Is Common Method Bias?
+
+Common method bias occurs when the way data are collected distorts a research result. The influence comes from the measurement process rather than only from the constructs being studied. **Common method variance** is variance shared by measures because of their method; its presence does not automatically prove that a particular relationship is biased.
+
+For example, a survey might ask the same customers about their satisfaction and intention to return. If some people tend to give positive answers to every question, that tendency could affect both measures and their observed relationship. Method bias can make a relationship appear stronger or weaker; its direction and size depend on the situation (pp. 541–543).
+
+# Sources and Effects
+
+The article identifies several possible sources of method bias:
+
+- **The respondent:** People may try to appear favorable, agree with statements, or keep their answers consistent.
+- **Question wording:** Ambiguous or complicated questions can lead to inaccurate responses.
+- **Response formats:** Using the same scales and anchors across questions can encourage similar response patterns.
+- **Question context:** Earlier questions, the survey setting, or a respondent's temporary mood can influence later answers.
+
+Method influences can affect the validity and reliability of individual measures as well as correlations between constructs. They can therefore affect conclusions drawn from regression or structural equation models. The authors also note that method effects may differ across items; it is not safe to assume that every measure is affected equally (pp. 542–543).
+
+The review discusses studies that used multiple constructs and methods to estimate method effects. It also reports that some same-source relationships were larger than different-source relationships. These comparisons show that method bias can matter, but they do not establish how much bias exists in a particular new study (pp. 543–548).
+
+# How to Reduce Method Bias
+
+The authors recommend addressing potential problems when designing a study. Useful steps include:
+
+- Use different sources when they measure the intended concepts appropriately.
+- Separate predictor and outcome questions by location or time when practical.
+- Write clear questions, avoid confusing wording, and keep surveys manageable.
+- Explain privacy protections and use anonymity when it is genuinely available.
+- Consider different response formats where they suit the measures, and test the survey before collecting data.
+
+Each remedy has limitations. For example, collecting responses at different times may reduce some immediate response effects, but it can also increase dropout or allow the outcome to change. Using a different source can change what is being measured (pp. 548–553).
+
+The authors emphasize making it easier and more motivating for people to answer accurately. When questions are difficult or respondents are unmotivated, they may use shortcuts instead of carefully considering their answers (pp. 559–565).
+
+# Statistical Checks
+
+Researchers may also use statistical methods to examine possible method effects:
+
+- **Common latent factor:** Add a method factor to a measurement model and assess how estimates change. The model must be identifiable, and the factor may also capture substantive overlap.
+- **Marker variable:** Use a variable that is theoretically unrelated to the main constructs but shares relevant measurement features. The result depends on choosing a suitable marker and meeting the method's assumptions.
+- **Harman's single-factor test:** Examine whether a single factor dominates the measures. A first factor below a 50% threshold does not prove that method bias is absent (Fuller et al., 2016).
+
+These checks can help researchers assess sensitivity to possible bias, but no single test proves that a study is free from it. Procedural design and statistical checks should address the sources relevant to the study.
+
+# References
+
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of method bias in social science research and recommendations on how to control it. *Annual Review of Psychology, 63*, 539–569. [https://doi.org/10.1146/annurev-psych-120710-100452](https://doi.org/10.1146/annurev-psych-120710-100452)
+
+Fuller, C. M., Simmering, M. J., Atinc, G., Atinc, Y., & Babin, B. J. (2016). Common methods variance detection in business research. *Journal of Business Research, 69*(8), 3192–3198. [https://doi.org/10.1016/j.jbusres.2015.12.008](https://doi.org/10.1016/j.jbusres.2015.12.008)
+
+# Appendix
+
+- **GitHub repository:** Pending publication.
+- **GitHub Pages report:** Pending publication.
